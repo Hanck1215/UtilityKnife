@@ -1,1 +1,0 @@
-將Calculator資料夾刪除，並新增Package資料夾，裏頭放入Calculator.py後，即可複製一份Package資料夾進Converter資料夾，如此tempConverter.py就可以存取到Calculator.py，而且我們也比較好管理Pacjage資料夾
