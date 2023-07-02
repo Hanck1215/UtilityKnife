@@ -1,0 +1,2 @@
+Hanck端 負責工作: 建立temperatureConverter
+Sugar端 負責工作: 建立Calculator 
