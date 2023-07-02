@@ -1,1 +1,1 @@
-我將Calculator資料夾移至Converter資料夾了，因為我發現溫度轉換器的基本操作是由計算機實現，因此做這個舉動使其成為Converter的函式庫，況且如果函式庫沒待在Converter資料夾內，tempConverter式存取不到的。此外我新增了一個txt檔在資料夾內，用來打commit訊息的字，否則輸入太久，終端機會當掉。
+將Calculator資料夾刪除，並新增Package資料夾，裏頭放入Calculator.py後，即可複製一份Package資料夾進Converter資料夾，如此tempConverter.py就可以存取到Calculator.py，而且我們也比較好管理Pacjage資料夾
