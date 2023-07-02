@@ -1,4 +1,4 @@
-import CalculatorPackage.CalculatorClass as CalcGenerator
+import Package.CalculatorClass as CalcGenerator
 
 class tempConverter() :
     Calc = None
