@@ -1,2 +1,1 @@
-print("Hello world!")
-print("Hank的電腦是否能push呢?")
+print("SugarTown這邊成功看到Hanck的更新內容了")
